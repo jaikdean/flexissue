@@ -2,7 +2,6 @@
     "name": "jaikdean/flexissue",
     "type": "project",
     "require": {
-        "symfony/flex": "^1.4",
         "php-http/discovery": "^1.6"
     }
 }
